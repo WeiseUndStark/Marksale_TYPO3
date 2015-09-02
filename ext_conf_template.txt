@@ -1,0 +1,2 @@
+# cat=basic/enable/010; type=string; label=LLL:EXT:marksale/Resources/Private/Language/locallang_be.xlf:extmng.key
+key = 

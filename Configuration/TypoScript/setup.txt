@@ -1,0 +1,9 @@
+includeLibs.listRecords = EXT:marksale/Classes/UserFunction/Parser.php
+
+page.footerData {
+  8268 = USER
+  8268 {
+    userFunc     = Parser->getKey
+    templateFile = typo3conf/ext/marksale/Resources/Private/Templates/Data.html
+  }
+} 
